@@ -1,0 +1,199 @@
+.vector-toc::after {
+    background: transparent !important;
+}
+
+body {
+    background: #282a2b !important;
+    color: #6a7279 !important;
+}
+
+.vector-page-titlebar,
+.vector-page-toolbar-container {
+    box-shadow: 0px 1px #2f3138 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #686a70 !important;
+    border-bottom: 1px solid #2f3138 !important;
+}
+
+a {
+    color: #7490b9 !important;
+}
+
+a:visited {
+    color: #4b566c !important;
+}
+
+label {
+    color: #6a7279 !important;
+}
+
+.uls-menu,
+.uls-search {
+    border: 1px solid #2f3138 !important;
+}
+
+.uls-language-list,
+.uls-search {
+    background-color: #292b2d !important;
+}
+
+
+#uls-settings-block.uls-settings-block--vector-2022.uls-settings-block--with-add-languages {
+    background-color: #292b2d !important;
+    border: 1px solid #2f3138 !important;
+}
+
+input,
+.vector-typeahead-search-container button {
+    background-color: #282a2b !important;
+    border: 1px solid #2f3138 !important;
+    color: #6a7279 !important;
+}
+
+.vector-typeahead-search-container ul,
+.vector-typeahead-search-container li {
+    background-color: #282a2b !important;
+    border: 1px solid #2f3138 !important;
+}
+
+.cdx-menu {
+    border: 1px solid #2f3138 !important;
+    box-shadow: 0px 1px #2f3138 !important;
+}
+
+.lang-list-button {
+    background-color: #282a2b !important;
+}
+
+.footer-sidebar-content {
+    background-color: #282a2b !important;
+}
+
+#typeahead-suggestions a {
+    background-color: #282a2b !important;
+}
+
+.mw-page-container {
+    background-color: #212123 !important;
+}
+
+.mw-content-text {
+    background-color: #292b2d !important;
+}
+
+#mp-topbanner, #mp-left, #mp-right, #mp-middle, #mp-bottom, #mp-lower {
+    background-color: #292b2d !important;
+    border-color: #2f3138 !important;
+}
+
+.mp-h2 {
+    background-color: #2f3234 !important;
+    border-color: #2f3138 !important;
+}
+
+.vector-header-container {
+    background-color: #2f3234 !important;
+}
+
+.vector-toc {
+    background-color: #212123 !important;
+}
+
+.vector-feature-zebra-design-disabled .vector-pinnable-element>*:not(:last-child) {
+    border-bottom: 1px solid #2f3138 !important;
+}
+
+.vector-pinnable-header-label {
+    border: transparent !important;
+}
+
+table {
+    background-color: #292b2d !important;
+    border: 1px solid #2f3138 !important;
+    color: #6a7279 !important;
+}
+
+th,
+tr,
+td {
+    border: 1px solid #2f3138 !important;
+}
+
+.infobox-header {
+    background-color: #282a2b !important;
+}
+
+.infobox th,
+.infobox td,
+.infobox tr {
+    border: transparent !important;
+}
+
+.sidebar-list-title {
+    border-bottom: 1px solid #2f3138 !important;
+}
+
+.wikitable th {
+    background-color: #282a2b !important;
+}
+
+figure[typeof~='mw:File/Thumb'],
+figure[typeof~='mw:File/Frame'] {
+    background-color: #292b2d !important;
+    border: 1px solid #2f3138;
+}
+
+figure[typeof~='mw:File/Thumb']>figcaption,
+figure[typeof~='mw:File/Frame'] {
+    background-color: #292b2d !important;
+    border: 1px solid #2f3138 !important;
+}
+
+.thumbinner,
+.multiimageinner,
+.mwe-popups-container {
+    background-color: #292b2d !important;
+    border: 1px solid #2f3138 !important;
+}
+
+.mwe-popups-extract::after {
+    background: transparent !important;
+}
+
+/* .m#2f353b */
+
+.mw-parser-output .navbox {
+    background-color: #282a2b !important;
+    border: 1px solid #2f3138 !important;
+}
+
+.catlinks, .portal-bar {
+    background-color: #282a2b !important;
+    border: 1px solid #2f3138 !important;
+}
+
+.navbox th {
+    background-color: #282a2b !important;
+    border: transparent !important;
+}
+
+/* For Webkit-based browsers (Chrome, Safari) */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #292b2d !important;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #3c3c3c !important;
+    cursor: pointer !important;
+}
