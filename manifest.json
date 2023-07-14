@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "short_name": "Wikipedia Dark Mode",
   "name": "Wikipedia Dark Mode",
-  "description": "Dark Mode theme for Wikipedia",
+  "description": "Enjoy reading Wikipedia with a comfortable dark mode theme.",
   "action": {
     "default_title": "CRE"
   },
