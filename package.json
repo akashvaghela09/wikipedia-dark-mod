@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "zip": "zip -r extension.zip manifest.json popup.css scripts/ icons/icon16.png icons/icon48.png icons/icon128.png"
   },
   "author": "",
   "license": "ISC"
