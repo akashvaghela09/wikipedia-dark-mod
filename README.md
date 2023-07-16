@@ -6,8 +6,7 @@ This is a simple Chrome extension that converts Wikipedia pages into a dark mode
 
 ## Installation
 
-The extension is available on the Chrome Web Store: 
-<a href="https://chrome.google.com/webstore/detail/wikipedia-dark-mode/ajmfmdfeemjiekcmfgeoifpmomgjcfki/"><img src="https://user-images.githubusercontent.com/12115686/206926802-0461dc64-84cd-42de-8c17-74a7ee64528c.png" style="width: 180px !important; height: 50px !important"></a>
+<a href="https://chrome.google.com/webstore/detail/wikipedia-dark-mode/ajmfmdfeemjiekcmfgeoifpmomgjcfki"><img src="https://user-images.githubusercontent.com/12115686/206926802-0461dc64-84cd-42de-8c17-74a7ee64528c.png" style="width: 180px !important; height: 50px !important"></a>
 
 To install the extension from GitHub, follow these steps:
 
