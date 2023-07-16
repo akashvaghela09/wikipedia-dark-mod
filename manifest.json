@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "short_name": "Wikipedia Dark Mode",
   "name": "Wikipedia Dark Mode",
   "description": "Enjoy reading Wikipedia with a comfortable dark mode theme.",
